@@ -1,5 +1,5 @@
-![REACT](https://img.shields.io/badge/.NET-8.0-purple)
-![NOD_VERSION_18](https://img.shields.io/badge/ASP.NET-Core-blue)
+![REACT](https://img.shields.io/badge/NODE-18.0-purple)
+![NOD_VERSION_18](https://img.shields.io/badge/REACT-blue)
 ![Language](https://img.shields.io/badge/C%23-Programming-green)
 
 
