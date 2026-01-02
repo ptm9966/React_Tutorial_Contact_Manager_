@@ -1,3 +1,10 @@
+![REACT](https://img.shields.io/badge/.NET-8.0-purple)
+![NOD_VERSION_18](https://img.shields.io/badge/ASP.NET-Core-blue)
+![Language](https://img.shields.io/badge/C%23-Programming-green)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
