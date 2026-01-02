@@ -1,7 +1,5 @@
-![REACT](https://img.shields.io/badge/NODE-18.0-purple)
-![NOD_VERSION_18](https://img.shields.io/badge/REACT-blue)
-![Language](https://img.shields.io/badge/C%23-Programming-green)
-
+![React](https://img.shields.io/badge/React-18.2.0-blue?logo=react)
+![JavaScript](https://img.shields.io/badge/NODE-16.0.0-yellow?logo=javascript)
 
 
 
